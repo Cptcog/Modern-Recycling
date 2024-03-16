@@ -1,4 +1,4 @@
-# Mordern-Recycling
+# Modern-Recycling
 Minecraft datapack meant to reduce complexity in your inventory management. And have a little fun doing it.<br><br>
 
 Okay, so this is a big one. Taken originally from ArtemisNotFound (I think?) by a friend of mine for our shared server, we adjusted it to reflect our play styles (and my propensity to break everything I could), and was modified heavily over time as the game got more and more blocks. Eventually, we started losing track of the changes, losing track of our versions, and otherwise mixing this up with other ideas. This is meant to be the end of that organic and spontaneous growth. I tried to standardize the recipes, but you might discover a few are off. The rule of thumb stands that if the item is just itself, it can be crafted back into a previous iteration. Wool can be made into string. Stairs of anything can be made back into its original block. Armor is expempted because I'm a filthy hacker, and I had to take responsibility for my own actions. If there's a recipe that doesn't make sense to you, please let me know, and I'll look into fixing it.<br>

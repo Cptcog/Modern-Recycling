@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:pumpkin_seeds"
+        },
+        {
+            "item": "minecraft:pumpkin_seeds"
+        },
+        {
+            "item": "minecraft:pumpkin_seeds"
+        },
+        {
+            "item": "minecraft:pumpkin_seeds"
+        }
+    ],
+    "result": {
+        "item": "minecraft:pumpkin",
+        "count": 1
+    },
+    "group": "Recycling"
+}

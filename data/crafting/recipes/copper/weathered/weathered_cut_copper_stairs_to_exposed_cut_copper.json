@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "weathered_cut_copper_stairs"
+        },
+        {
+            "item": "weathered_cut_copper_stairs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:cut_copper",
+        "count": 3
+    },
+    "group": "Recycling"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stripped_birch_log"
+        }
+    ],
+    "result": {
+        "item": "minecraft:birch_log",
+        "count": 1
+    },
+    "group": "Recycling"
+}

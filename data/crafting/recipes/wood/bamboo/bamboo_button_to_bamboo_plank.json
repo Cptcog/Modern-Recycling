@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bamboo_button"
+        }
+    ],
+    "result": {
+        "item": "minecraft:bamboo_planks",
+        "count": 1
+    },
+    "group": "Recycling"
+}

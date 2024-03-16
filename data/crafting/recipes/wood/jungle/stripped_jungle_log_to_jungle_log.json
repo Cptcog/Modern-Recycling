@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stripped_jungle_log"
+        }
+    ],
+    "result": {
+        "item": "minecraft:jungle_log",
+        "count": 1
+    },
+    "group": "Recycling"
+}

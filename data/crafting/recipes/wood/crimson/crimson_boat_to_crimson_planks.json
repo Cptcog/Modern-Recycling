@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:crimson_boat"
+        }
+    ],
+    "result": {
+        "item": "minecraft:crimson_planks",
+        "count": 5
+    },
+    "group": "Recycling"
+}

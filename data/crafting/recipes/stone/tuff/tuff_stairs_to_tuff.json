@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:tuff_stairs"
+        }
+    ],
+    "result": {
+        "item": "minecraft:tuff",
+        "count": 1
+    },
+    "group": "Recycling"
+}

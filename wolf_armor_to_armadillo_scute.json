@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:wolf_armor"
+        }
+    ],
+    "result": {
+        "item": "minecraft:armadillo_scute",
+        "count": 6
+    }
+}

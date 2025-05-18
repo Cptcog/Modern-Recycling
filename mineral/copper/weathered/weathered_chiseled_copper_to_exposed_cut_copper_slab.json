@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "weathered_chiseled_copper"
+        }
+    ],
+    "result": {
+        "item": "minecraft:exposed_cut_copper_slab",
+        "count": 2
+    }
+}

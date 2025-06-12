@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "oxidized_copper_grate"
+        }
+    ],
+    "result": {
+        "item": "weathered_copper",
+        "count": 1
+    },
+    "group": "Recycling"
+}

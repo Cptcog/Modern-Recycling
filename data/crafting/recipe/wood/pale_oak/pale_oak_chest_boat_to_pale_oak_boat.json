@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:pale_oak_chest_boat"
+        }
+    ],
+    "result": {
+        "item": "minecraft:pale_oak_boat",
+        "count": 1
+    },
+    "group": "Recycling"
+}
